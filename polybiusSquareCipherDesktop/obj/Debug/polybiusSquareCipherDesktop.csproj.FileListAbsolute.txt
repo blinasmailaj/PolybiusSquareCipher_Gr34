@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\bin\Debug\polybiusSquareCipherDesktop.exe.config
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\bin\Debug\polybiusSquareCipherDesktop.exe
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\bin\Debug\polybiusSquareCipherDesktop.pdb
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\obj\Debug\polybiusSquareCipherDesktop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\obj\Debug\polybiusSquareCipherDesktop.Form1.resources
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\obj\Debug\polybiusSquareCipherDesktop.Properties.Resources.resources
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\obj\Debug\polybiusSquareCipherDesktop.csproj.GenerateResource.cache
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\obj\Debug\polybiusSquareCipherDesktop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\obj\Debug\polybiusSquareCipherDesktop.exe
+C:\Users\User\source\repos\polybiusSquareCipherDesktop\obj\Debug\polybiusSquareCipherDesktop.pdb
