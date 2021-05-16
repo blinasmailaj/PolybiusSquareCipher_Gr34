@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\polybiusSquareCipherConsole\bin\Debug\polybiusSquareCipherConsole.exe.config
+C:\Users\User\source\repos\polybiusSquareCipherConsole\bin\Debug\polybiusSquareCipherConsole.exe
+C:\Users\User\source\repos\polybiusSquareCipherConsole\bin\Debug\polybiusSquareCipherConsole.pdb
+C:\Users\User\source\repos\polybiusSquareCipherConsole\obj\Debug\polybiusSquareCipherConsole.csprojAssemblyReference.cache
+C:\Users\User\source\repos\polybiusSquareCipherConsole\obj\Debug\polybiusSquareCipherConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\polybiusSquareCipherConsole\obj\Debug\polybiusSquareCipherConsole.exe
+C:\Users\User\source\repos\polybiusSquareCipherConsole\obj\Debug\polybiusSquareCipherConsole.pdb
