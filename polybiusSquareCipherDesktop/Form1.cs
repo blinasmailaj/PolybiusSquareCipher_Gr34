@@ -113,6 +113,7 @@ namespace polybiusSquareCipherDesktop
 
         private void btnEncrypt_Click(object sender, EventArgs e)
         {
+            encBox.Clear();
             if (ValidateChildren(ValidationConstraints.Enabled))
             {
                 char[,] grid = square(keyBox.Text);
@@ -125,8 +126,9 @@ namespace polybiusSquareCipherDesktop
 
         private void btnDecrypt_Click(object sender, EventArgs e)
         {
+            dctBox.Clear()
             char[,] grid = square(keyBox.Text);
-            string decryptedText = decryptPolybius(encBox.Text, grid);
+            string decryptedText = decryptPolybius(txtBox.Text, grid);
             dctBox.Text = decryptedText;
         }
 
@@ -173,7 +175,24 @@ namespace polybiusSquareCipherDesktop
                 }
 
             }
-
+        }
+        private void encBox_Validating(object sender, CancelEventArgs e)
+        {
+            string word = txtBox.Text;
+            for(int i = 0; i< word.Length; i++)
+            {
+                if (char.IsDigit(word[i]))
+                {
+                    e.Cancel = true;
+                    txtBox.Focus();
+                    errorProvider2.SetError(encBox, "Can't encrypt message! ");
+                }
+                else
+                {
+                    e.Cancel = false;
+                    errorProvider2.SetError(encBox, null);
+                }
+            }
         }
     }
 }
